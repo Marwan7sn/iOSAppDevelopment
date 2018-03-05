@@ -8,6 +8,8 @@ jobs.insert("Tester")
 jobs.insert("Admin")
 jobs.insert("Manager")
 jobs.insert("Manager") // depilcate
+
+// يمكن الوصول لها فقط في item in collection
 for item in jobs{
     print(item)
 }

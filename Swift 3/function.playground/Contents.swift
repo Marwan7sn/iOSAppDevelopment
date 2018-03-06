@@ -19,5 +19,5 @@ func display(name:String)->String{
     return("Hello \(name) to func")
 }
 
-
+// لابد من تخزين القيمة في متغير
 var r = display(name:"hussein")
